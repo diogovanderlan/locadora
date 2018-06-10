@@ -1,2 +1,2 @@
 # locadora
-projeto criado em sala 
+Trabalho de FrameWorks de Desenvolvimento Front-end - Pós-Graduação ALFA Umuarama.
